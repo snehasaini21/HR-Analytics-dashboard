@@ -41,5 +41,3 @@ Key KPIs like Attrition Rate, Avg. Salary, Avg. Age
 6. Business Impact & Insights:
 The dashboard identifies that younger employees (26–35) and those earning less than ₹5k have higher attrition. HR can focus on targeted retention strategies such as compensation review and engagement programs for these segments.
 
-7. Snapshot Link: https://github.com/snehasaini21/HR-Analytics-dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
-
