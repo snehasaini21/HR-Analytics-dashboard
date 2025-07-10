@@ -7,9 +7,13 @@ This dynamic dashboard visualizes key attrition metrics in a company, helping HR
 
 3. Tech Stack:
 Power BI Desktop – For creating interactive reports and visualizations
+
 Power Query – For cleaning, shaping, and transforming the data
+
 DAX (Data Analysis Expressions) – For calculated measures, KPIs, and dynamic visualizations
+
 Data Modeling – For establishing relationships across tables
+
 File Format – .pbix for the report file, .png for dashboard preview
 
 4. Data Source:
