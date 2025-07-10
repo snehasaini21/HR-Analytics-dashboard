@@ -22,13 +22,20 @@ The data used in this dashboard is a simulated HR dataset that includes details 
 5. Features / Highlights
 Business Problem:
 High attrition rates can disrupt organizational performance. This dashboard helps uncover where and why employees are leaving.
+
 Goal of the Dashboard:
 To provide HR stakeholders with clear insights into employee attrition patterns and contributing factors.
+
 Key Visuals:
+
 Attrition by Age, Salary, Job Role, Education
+
 Gender-wise attrition
+
 Years at Company vs. Attrition
+
 Department filter to slice data interactively
+
 Key KPIs like Attrition Rate, Avg. Salary, Avg. Age
 
 6. Business Impact & Insights:
